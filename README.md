@@ -1,14 +1,15 @@
 # Desafio DIO
 
-##_Linguagem_
+## _Linguagem_
 
--Python
+* Python
 
-##_Bibliotecas_
+## _Bibliotecas_
 
--OS
--PYAES `sudo apt-get update`+`sudo apt-get -y install python3-pyaes`
+* OS
+* PYAES `sudo apt-get update`+`sudo apt-get -y install python3-pyaes`
 
-###Linux:
-1-Encriptar: `python encrypter.py`
-2-Decriptar: `python decrypter.py`
+### Linux:
+Encriptar: `python encrypter.py`
+
+Decriptar: `python decrypter.py`
